@@ -14,3 +14,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadirkattas&show_icons=true&locale=en&layout=compact" alt="kadirkattas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadirkattas&show_icons=true&locale=en" alt="kadirkattas" /></p>
+
+<a href="https://github.com/kadirkattas/kadirkattas/tree/main/certificates" target="_blank" rel="noreferrer"> Certificates </a>
+  
